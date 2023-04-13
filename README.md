@@ -1,1 +1,2 @@
-This is a sample Android app that showcases clean architecture principles using MVVM and Jetpack Compose. It fetches a list of users from the [Random User API](https://randomuser.me/) and displays it in a paginated list.
+This is a sample Android app that showcases clean architecture principles using MVVM and Jetpack Compose. 
+It fetches a list of users from the [Random User API](https://randomuser.me/) and displays it in a paginated list.
