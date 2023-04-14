@@ -1,7 +1,7 @@
 [versions]
 accompanist = "0.30.1"
 androidxActivity = "1.7.0"
-androidxComposeBom = "2023.03.00"
+androidxComposeBom = "2023.04.00"
 androidxCore = "1.10.0"
 androidxHiltNavigation = "1.0.0"
 androidxLifecycleRuntime = "2.6.1"
